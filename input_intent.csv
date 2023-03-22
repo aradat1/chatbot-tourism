@@ -1,0 +1,124 @@
+﻿target,Intent,user_Input
+1,Flight_Booking,How do I book a flight?
+1,Flight_Booking,What are the available flights to London?
+1,Flight_Booking,Can I book a flight for tomorrow?
+1,Flight_Booking,What is the cheapest flight to Paris?
+1,Flight_Booking,Is there a direct flight to New York?
+1,Flight_Booking,How can I book a flight to Paris?
+1,Flight_Booking,Do you have any flights available to New York on June 15th?
+1,Flight_Booking,Can I book a one-way flight to London?
+1,Flight_Booking,What is the price for a round-trip flight to Tokyo?
+1,Flight_Booking,Can I book a flight for someone else?
+1,Flight_Booking,Is there a direct flight from Miami to Sydney?
+1,Flight_Booking,How do I apply a promo code when booking a flight?
+1,Flight_Booking,Are there any flights available with extra legroom seats?
+1,Flight_Booking,Can I choose my seat when booking a flight?
+1,Flight_Booking,How early should I arrive at the airport for my flight?
+2,Hotel_Booking,How do I book a hotel room?
+2,Hotel_Booking,What is the cheapest hotel in Paris?
+2,Hotel_Booking,Can I book a hotel room for next weekend?
+2,Hotel_Booking,What are the available hotels in New York?
+2,Hotel_Booking,How can I cancel my hotel reservation?
+2,Hotel_Booking,Can you suggest some good hotels in the city center?
+2,Hotel_Booking,What are the available hotel options for next week?
+2,Hotel_Booking,Is there any hotel near the airport?
+2,Hotel_Booking,I need a hotel room for two adults and one child.
+2,Hotel_Booking,How much does it cost to book a room for three nights?
+2,Hotel_Booking,Can I change my booking after I make it?
+2,Hotel_Booking,Do you offer any discounts for booking a hotel and flight?
+2,Hotel_Booking,Are there any pet-friendly hotels in the area?
+2,Hotel_Booking,Can I get a hotel room with a balcony or sea view?
+2,Hotel_Booking,How far is the hotel from the city's main attractions?
+3,Greeting,"Hello, how are you?"
+3,Greeting,"Hi there, can you help me with something?"
+3,Greeting,"Good morning, what services do you provide?"
+3,Greeting,"Hey, what kind of trips can I book through your website?"
+3,Greeting,"Hi, do you have any vacation packages available right now?"
+3,Greeting,Hi
+3,Greeting,Hey
+3,Greeting,Good morning
+3,Greeting,Good afternoon
+3,Greeting,Hello
+3,Greeting,How are you?
+3,Greeting,What's up?
+3,Greeting,Nice to meet you
+3,Greeting,Greetings
+3,Greeting,What can you do for me?
+3,Greeting,Is anyone there?
+3,Greeting,Are you a real person or a chatbot?
+3,Greeting,Can you help me?
+3,Greeting,What are you?
+3,Greeting,Are you a chatbot or a robot?
+4,Change_Flight,I want to change my flight
+4,Change_Flight,Can I change my flight details?
+4,Change_Flight,How do I modify my flight reservation?
+4,Change_Flight,I need to change the date of my flight
+4,Change_Flight,Is it possible to change the time of my flight?
+4,Change_Flight,Can I change my flight to a later time?
+4,Change_Flight,Is it possible to change the destination of my flight?
+4,Change_Flight,Can I change my flight to another airline?
+4,Change_Flight,Can I change my flight from a direct flight to a connecting flight?
+4,Change_Flight,Can I change my flight to a different airport?
+4,Change_Flight,How can I change the flight date on my ticket?
+4,Change_Flight,What is the process for changing my flight?
+4,Change_Flight,Is there a fee for changing my flight?
+4,Change_Flight,Can I change my flight to a different time on the same day?
+4,Change_Flight,What are the available options for changing my flight?
+5,Change_Destination,Can I change my destination?
+5,Change_Destination,I want to fly to a different city
+5,Change_Destination,How do I change the location for my flight reservation?
+5,Change_Destination,Can I modify the destination of my booking?
+5,Change_Destination,I need to change the airport I'm flying to
+5,Change_Destination,Can I change my destination to Hawaii instead of Cancun?
+5,Change_Destination,How can I modify my booking to switch to Paris as the destination?
+5,Change_Destination,Can I change my trip to go to Bali instead of Phuket?
+5,Change_Destination,Is it possible to alter my booking to a different destination like New York City?
+5,Change_Destination,Can I change my trip from Los Angeles to San Francisco?
+5,Change_Destination,Can I change my travel itinerary to Vancouver instead of Toronto?
+5,Change_Destination,Can I change my booking from Amsterdam to Brussels?
+5,Change_Destination,How can I change my destination to Dubai from Abu Dhabi?
+5,Change_Destination,Is it possible to modify my trip to a different location like Sydney?
+5,Change_Destination,Can I change my vacation package to Barcelona instead of Madrid?
+6,Change_Date,I need to change the date of my reservation
+6,Change_Date,How do I modify the date of my booking?
+6,Change_Date,Is it possible to change the departure date of my flight?
+6,Change_Date,Can I change the date of my booking?
+6,Change_Date,What are my options for changing the travel date?
+6,Change_Date,Is it possible to move my flight to a different date?
+6,Change_Date,How can I reschedule my trip to a later date?
+6,Change_Date,"I need to push my travel date back, how can I do that?"
+6,Change_Date,Can you help me change the departure date of my booking?
+6,Change_Date,"I made a mistake in the date of my booking, how can I correct it?"
+6,Change_Date,Is there a fee for changing the travel date?
+6,Change_Date,How far in advance can I change my flight date?
+6,Change_Date,"I need to change the date of my booking, what are the steps to do that?"
+7,cancel_flight,I need to cancel my flight
+7,cancel_flight,Can I cancel my flight?
+7,cancel_flight,How do I cancel my flight?
+7,cancel_flight,What is the cancellation policy for my flight?
+7,cancel_flight,I want to cancel my flight due to an emergency
+7,cancel_flight,Can I get a refund if I cancel my flight?
+7,cancel_flight,I need to change my flight reservation
+7,cancel_flight,"My plans have changed, how can I cancel my flight?"
+7,cancel_flight,What is the deadline to cancel my flight?
+7,cancel_flight,"I booked my flight on a third-party website, can I still cancel my flight?"
+7,cancel_flight,Can I cancel my flight online?
+7,cancel_flight,How much does it cost to cancel my flight?
+7,cancel_flight,Can I cancel my flight and get a credit for future travel?
+7,cancel_flight,Can I cancel a non-refundable flight?
+7,cancel_flight,Can I cancel a flight booked with points?
+8,end_booking,"That's all for now, thanks!"
+8,end_booking,"I need to go now, bye!"
+8,end_booking,"Thanks for your help, bye!"
+8,end_booking,"I'm done here, bye!"
+8,end_booking,Can we end this chat now?
+8,end_booking,"I have to run, bye!"
+8,end_booking,"Alright, thanks for your help. Goodbye!"
+8,end_booking,"That's all I needed, thanks!"
+8,end_booking,Bye for now!
+8,end_booking,"I think we're finished here, bye!"
+8,end_booking,"I've got what I need, thanks!"
+8,end_booking,"This was helpful, thanks and bye!"
+8,end_booking,"It's time for me to go, bye!"
+8,end_booking,Goodbye and thank you!
+8,end_booking,"That's everything I needed, thanks!"

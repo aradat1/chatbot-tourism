@@ -1,0 +1,11 @@
+output,intent,next_state,entities,ploralty
+When do you want to travel?,Flight_Booking,13,"[('GPE', 'paris')]",positive
+When do you want to book your hotel?,Hotel_Booking,13,"[('GPE', 'london')]",positive
+Where do you want to cancel your destination to?,cancel_flight,13,"[('DATE', 'Monday, March 6')]",negative
+Where do you want to travel?,Flight_Booking,13,"[('DATE', 'Tuesday, December 28')]",positive
+Where and when do you want to change your flight?,Change_Flight,13,[],neutral
+Where do you want to change your destination to?,Change_Destination,13,[],positive
+When do you want to change your destination to?,Change_Date,13,[],neutral
+When do you want to cancel your booking?,cancel_flight,13,"[('GPE', 'paris')]",negative
+Thank you for using our service.,end_booking,0,[],positive
+Your flight has been booked. Thank you for choosing us!,Flight_Booking,0,"[('GPE', 'paris'), ('DATE', 'Tuesday, March 7')]",positive
